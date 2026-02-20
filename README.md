@@ -1,2 +1,2 @@
 # RandomNumber
-phyton
+python
